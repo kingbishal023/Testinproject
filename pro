@@ -14,7 +14,7 @@ clear; exit 1
 }
 }
 echo -e "\033[1;31m\033[0m"
-tput setaf 7 ; tput setab 4 ; tput bold ; printf '%40s%s%-12s\n' "◇─────────ㅤWELCOME TO MY PRO OVPN MANAGERㅤ─────────◇" ; tput sgr0
+tput setaf 7 ; tput setab 4 ; tput bold ; printf '%40s%s%-12s\n' "◇─────────ㅤWELCOME TO MY PREMIUM OVPN MANAGERㅤ─────────◇" ; tput sgr0
 echo -e "\033[1;31m◇──────────────────────────────────────────────────────◇\033[0m"
 echo ""
 echo -e "\033[1;31m◇ ATTENTION!ㅤ⚠️ㅤ.\033[1;33mㅤTHIS SCRIPT CONTAINS THE FOLLOWING!!\033[0m"
