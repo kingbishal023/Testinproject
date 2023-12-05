@@ -42,7 +42,7 @@ clear; exit 1
 }
 }
 echo -e "\033[1;31m\033[0m"
-tput setaf 7 ; tput setab 4 ; tput bold ; printf '%40s%s%-12s\n' "◇─────────WELCOME TO MY PREMIUM OVPN MANAGER─────────◇" ; tput sgr0
+tput setaf 7 ; tput setab 4 ; tput bold ; printf '%40s%s%-12s\n' "◇─────────ㅤ⚡ㅤWELCOME TO MY PREMIUM OVPN MANAGERㅤ⚡ㅤ─────────◇" ; tput sgr0
 echo -e "\033[1;31m◇──────────────────────────────────────────────────────◇\033[0m"
 echo ""
 echo -e "\033[1;31m◇ ATTENTION!ㅤ⚠️ㅤ.\033[1;33mㅤTHIS SCRIPT CONTAINS THE FOLLOWING!!\033[0m"
@@ -53,7 +53,7 @@ echo ""
 echo -e "\033[1;32m◇ \033[1;32mTIP! \033[1;33mUSE THE DARK THEME IN YOUR TERMINAL \033[0m"
 echo -e "\033[1;33mFOR A BETTER EXPERIENCE AND VIEW OF IT!\033[0m"
 echo ""
-echo -e "\033[1;31m◇──────────────OVPN MANAGER BY 𝘽𝙄𝙎𝙃𝘼𝙇 𝘼𝙃𝙈𝙀𝘿⚡──────────────◇\033[0m"
+echo -e "\033[1;31m◇──────────────ㅤ⚡ㅤOVPN MANAGER BY 𝘽𝙄𝙎𝙃𝘼𝙇 𝘼𝙃𝙈𝙀𝘿⚡ㅤ⚡ㅤ──────────────◇\033[0m"
 echo ""
 #-----------------------------------------------------------------------------------------------------------------
 echo -ne "\033[1;36m◇ Want to continue? [Y/N]: \033[1;37m"; read x
